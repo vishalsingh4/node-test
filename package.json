@@ -1,0 +1,20 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "NodeJs testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalsingh4/node-test.git"
+  },
+  "keywords": [],
+  "author": "Vishal Singh <vishal1.singh@airtel.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalsingh4/node-test/issues"
+  },
+  "homepage": "https://github.com/vishalsingh4/node-test#readme"
+}
